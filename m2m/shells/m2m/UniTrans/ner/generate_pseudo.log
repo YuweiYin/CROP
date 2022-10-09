@@ -1,0 +1,1759 @@
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 1000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 2000
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 500
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL/train.zh.tsv | Examples: 20018 -> 0
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 100
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 1
+Loading data from /path/to/NER/xtreme_UniTrans/UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans/UniTrans/FINAL/train.zh.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.af.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ar.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.bg.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.bn.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.de.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.el.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.es.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.et.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.eu.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fa.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fi.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.fr.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.he.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.hi.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.hu.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.id.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.it.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ja.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language jv word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.jv.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ka.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.kk.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ko.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ml.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language mr word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.mr.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ms.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language my word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.my.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.nl.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.pt.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ru.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language sw word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.sw.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ta.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.te.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.th.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.tl.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.tr.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.ur.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.vi.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Can not find the language yo word translator
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.yo.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_UniTrans//UniTrans/NER/en/test.xlmr.tsv
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Start Word Translation
+Complete Word Translation
+Successfully Saving to /path/to/NER/xtreme_UniTrans//UniTrans/FINAL//train.zh.tsv | Examples: 20018 -> 50
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/test.xlmr.tsv
+[Warming] file /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/test.xlmr.tsv not exists
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Successfully Saving to /path/to/NER/xtreme_MulDA/MulDA/FINAL/train.zh.tsv | Examples: 20018 -> 19019
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
+Successfully Saving to /path/to/NER/xtreme_MulDA/MulDA/FINAL/train.zh.tsv | Examples: 20018 -> 19019
+Loading data from /path/to/NER/xtreme_MulDA/panx_processed_maxlen128/en/orig_data/train.xlmr
+lang_id=0, lang=en, lang2id=None
+Changing I- -> B-
