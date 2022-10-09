@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: transformers
+Version: 2.5.1
+Summary: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
+Home-page: https://github.com/huggingface/transformers
+Author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Sam Shleifer, Google AI Language Team Authors, Open AI team Authors, Facebook AI Authors, Carnegie Mellon University Authors
+Author-email: thomas@huggingface.co
+License: Apache
+Description: UNKNOWN
+Keywords: NLP deep learning transformer pytorch tensorflow BERT GPT GPT-2 google openai CMU
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.5.0
+Description-Content-Type: text/markdown
+Provides-Extra: mecab
+Provides-Extra: sklearn
+Provides-Extra: tf
+Provides-Extra: tf-cpu
+Provides-Extra: torch
+Provides-Extra: serving
+Provides-Extra: all
+Provides-Extra: testing
+Provides-Extra: quality
+Provides-Extra: docs
+Provides-Extra: dev
