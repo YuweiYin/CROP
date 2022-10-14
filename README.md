@@ -68,9 +68,9 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 
 ## CROP Training
 
-### The Pipeline for Cross-lingual NER Tasks
+### I. The Pipeline for Cross-lingual NER Tasks
 
-**NOTE**: modify all the `"/path/to/"` in out code to your own code/data path.
+**NOTE**: modify all the `"/path/to/"` in our code to your own code/data path.
 
 1. Translated Target Translation data
 
@@ -115,7 +115,7 @@ bash /path/to/pipeline/step7_prepare_pseudo_ner_data1.sh
 bash /path/to/pipeline/step7_prepare_pseudo_ner_data2.sh
 ```
 
-### The Multilingaul Labeled Sequence Translation Model
+### II. The Multilingaul Labeled Sequence Translation Model
 
 ```bash
 NODES=8
@@ -187,7 +187,7 @@ else
 fi
 ```
 
-### The Source NER Model
+### III. The Source NER Model
 
 ```bash
 SEED=1
