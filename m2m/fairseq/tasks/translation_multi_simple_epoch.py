@@ -23,14 +23,11 @@ from fairseq.tasks import LegacyFairseqTask, register_task
 from fairseq.utils import FileContentsAction
 import gc
 
-###
+
 def get_time_gap(s, e):
     return (
-        datetime.datetime.fromtimestamp(e) - datetime.datetime.fromtimestamp(s)
+            datetime.datetime.fromtimestamp(e) - datetime.datetime.fromtimestamp(s)
     ).__str__()
-
-
-###
 
 
 logger = logging.getLogger(__name__)
@@ -112,13 +109,13 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
         tgt_dict = dicts[target_langs[0]]
         for src_lang in source_langs:
             assert (
-                src_dict == dicts[src_lang]
-            ), "Diffrent dictionary are specified for different source languages; "
+                    src_dict == dicts[src_lang]
+            ), "Different dictionary are specified for different source languages; "
             "TranslationMultiSimpleEpochTask only supports one shared dictionary across all source languages"
         for tgt_lang in target_langs:
             assert (
-                tgt_dict == dicts[tgt_lang]
-            ), "Diffrent dictionary are specified for different target languages; "
+                    tgt_dict == dicts[tgt_lang]
+            ), "Different dictionary are specified for different target languages; "
             "TranslationMultiSimpleEpochTask only supports one shared dictionary across all target languages"
 
     @classmethod
@@ -198,11 +195,11 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
         return dataset
 
     def build_generator(
-        self,
-        models,
-        args,
-        seq_gen_cls=None,
-        extra_gen_cls_kwargs=None,
+            self,
+            models,
+            args,
+            seq_gen_cls=None,
+            extra_gen_cls_kwargs=None,
     ):
         if not getattr(args, "keep_inference_langtok", False):
             _, tgt_langtok_spec = self.args.langtoks["main"]
@@ -212,7 +209,7 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
                 )
                 extra_gen_cls_kwargs = extra_gen_cls_kwargs or {}
                 extra_gen_cls_kwargs["symbols_to_strip_from_output"] = {tgt_lang_tok}
-            else: #Added By JianYang to be compatible with handler3.py
+            else:  # Added By Jian Yang to be compatible with handler3.py
                 extra_gen_cls_kwargs = extra_gen_cls_kwargs or {}
                 extra_gen_cls_kwargs["symbols_to_strip_from_output"] = set()
                 for target_lang in self.target_langs:
@@ -220,7 +217,6 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
                         target_lang, tgt_langtok_spec
                     )
                     extra_gen_cls_kwargs["symbols_to_strip_from_output"].add(tgt_lang_tok)
-
 
         return super().build_generator(
             models, args, seq_gen_cls=None, extra_gen_cls_kwargs=extra_gen_cls_kwargs
@@ -230,9 +226,8 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
         args.lang_id = self.data_manager.lang_id
         return super().build_model(args)
 
-
     def train_step(
-        self, sample, model, criterion, optimizer, update_num, ignore_grad=False, epoch=1
+            self, sample, model, criterion, optimizer, update_num, ignore_grad=False, epoch=1
     ):
         """
         Do forward and backward, and return the loss as computed by *criterion*
@@ -264,7 +259,6 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
             optimizer.backward(loss)
         return loss, sample_size, logging_output
 
-
     def valid_step(self, sample, model, criterion):
         loss, sample_size, logging_output = super().valid_step(sample, model, criterion)
         # if "src_lang_id" in logging_output.keys() and "tgt_lang_id" in logging_output.keys():
@@ -276,7 +270,7 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
         return loss, sample_size, logging_output
 
     def inference_step(
-        self, generator, models, sample, prefix_tokens=None, constraints=None
+            self, generator, models, sample, prefix_tokens=None, constraints=None
     ):
         with torch.no_grad():
             _, tgt_langtok_spec = self.args.langtoks["main"]
@@ -324,13 +318,13 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
         return self.dicts[self.target_langs[0]]
 
     def create_batch_sampler_func(
-        self,
-        max_positions,
-        ignore_invalid_inputs,
-        max_tokens,
-        max_sentences,
-        required_batch_size_multiple=1,
-        seed=1,
+            self,
+            max_positions,
+            ignore_invalid_inputs,
+            max_tokens,
+            max_sentences,
+            required_batch_size_multiple=1,
+            seed=1,
     ):
         def construct_batch_sampler(dataset, epoch):
             splits = [
@@ -387,20 +381,20 @@ class TranslationMultiSimpleEpochTask(LegacyFairseqTask):
 
     # we need to override get_batch_iterator because we want to reset the epoch iterator each time
     def get_batch_iterator(
-        self,
-        dataset,
-        max_tokens=None,
-        max_sentences=None,
-        max_positions=None,
-        ignore_invalid_inputs=False,
-        required_batch_size_multiple=1,
-        seed=1,
-        num_shards=1,
-        shard_id=0,
-        num_workers=0,
-        epoch=1,
-        data_buffer_size=0,
-        disable_iterator_cache=False,
+            self,
+            dataset,
+            max_tokens=None,
+            max_sentences=None,
+            max_positions=None,
+            ignore_invalid_inputs=False,
+            required_batch_size_multiple=1,
+            seed=1,
+            num_shards=1,
+            shard_id=0,
+            num_workers=0,
+            epoch=1,
+            data_buffer_size=0,
+            disable_iterator_cache=False,
     ):
         """
         Get an iterator that yields batches of data from the given dataset.
