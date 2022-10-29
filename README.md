@@ -52,7 +52,7 @@ For more details, please refer to the **4.1 Dataset** Section in our paper.
 * [Fairseq](https://github.com/pytorch/fairseq): 1.0.0
 
 ```bash
-cd m2m/fairseq
+cd m2m
 pip install --editable ./
 ```
 
@@ -78,16 +78,19 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 bash /path/to/CROP/pipeline/step0_train_source_ner_model.sh
 ```
 
-**The Multilingaul Labeled Sequence Translation Model**
+**The Multilingual Labeled Sequence Translation Model**
 
 ```bash
 bash /path/to/CROP/pipeline/step0_train_translation_model.sh
 ```
 
-- Trained model links [Clound Storage](https://pan.baidu.com/s/1YQjJEIVevEHXk-wpxcA8wg?pwd=jp4b)
-  - Baseline Translation Model
-  - Insert-based Translation Model
-  - Replace-based Translation Model
+- [Clound Storage](https://pan.baidu.com/s/1YQjJEIVevEHXk-wpxcA8wg?pwd=jp4b)
+  - Trained model
+    - Trained Baseline Translation Model: `m2m_checkpoint_baseline.pt`
+    - Trained Insert-based Translation Model: `m2m_checkpoint_insert_avg_41_60.pt`
+    - Trained Replace-based Translation Model: `m2m_checkpoint_replace_avg_11_20.pt`
+  - Dictionary for Tokenization (used by all three models above): `dict.txt`
+  - SentencePiece Model: `spm.model`
 
 ### CROP Pipeline
 
