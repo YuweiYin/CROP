@@ -90,6 +90,7 @@ bash /path/to/CROP/pipeline/step0_train_translation_model.sh
     - Trained Insert-based Translation Model: `m2m_checkpoint_insert_avg_41_60.pt`
     - Trained Replace-based Translation Model: `m2m_checkpoint_replace_avg_11_20.pt`
   - Dictionary for Tokenization (used by all three models above): `dict.txt`
+    - the folder `dict-40-lang/` includes 40 dictionaries of different languages.
   - SentencePiece Model: `spm.model`
 
 ### CROP Pipeline
