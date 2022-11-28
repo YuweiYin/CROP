@@ -1,6 +1,6 @@
 # CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation
 
-![picture](https://yuweiyin.github.io/files/publications/2022-12-09-EMNLP-CROP.png)
+![picture](https://www.yuweiyin.com/files/img/2022-12-09-EMNLP-CROP.png)
 
 ## Abstract
 
