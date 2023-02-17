@@ -36,7 +36,7 @@ F1 scores and achieves state-of-the-art performance.
 
 ## Data
 
-We use **CCaligned**, **CoNLL-5**, and **XTREME-40** datasets.
+We use **CCaligned**, **CoNLL-5**, and [**XTREME-40**](https://pan.baidu.com/s/14T6K4yfLgQoyo4y1i3TMfQ?pwd=107s) datasets.
 For more details, please refer to the **4.1 Dataset** Section in our paper.
 
 <!-- ### Preprocessing -->
@@ -75,13 +75,13 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 **The Source NER Model**
 
 ```bash
-bash /path/to/CROP/pipeline/step0_train_source_ner_model.sh
+bash ./pipeline/step0_train_source_ner_model.sh
 ```
 
 **The Multilingual Labeled Sequence Translation Model**
 
 ```bash
-bash /path/to/CROP/pipeline/step0_train_translation_model.sh
+bash ./pipeline/step0_train_translation_model.sh
 ```
 
 - [Clound Storage](https://pan.baidu.com/s/1YQjJEIVevEHXk-wpxcA8wg?pwd=jp4b)
@@ -98,7 +98,7 @@ bash /path/to/CROP/pipeline/step0_train_translation_model.sh
 1. Translated Target Translation data
 
 ```bash
-bash /path/to/CROP/pipeline/step1_prepare_tgt_translation_data.sh
+bash ./pipeline/step1_prepare_tgt_translation_data.sh
 ```
 
 2. Translated Target data to the Source data
@@ -106,25 +106,25 @@ bash /path/to/CROP/pipeline/step1_prepare_tgt_translation_data.sh
 (use the Baseline Translation Model or Insert-based Translation Model or Replace-based Translation Model)
 
 ```bash
-bash /path/to/CROP/pipeline/step2_tgt2src_translation.sh
+bash ./pipeline/step2_tgt2src_translation.sh
 ```
 
 3. Prepare Translated NER Data
 
 ```bash
-bash /path/to/CROP/pipeline/step3_preapre_src_ner_data.sh
+bash ./pipeline/step3_preapre_src_ner_data.sh
 ```
 
 4. Source NER
 
 ```bash
-bash /path/to/CROP/pipeline/step4_src_ner.sh
+bash ./pipeline/step4_src_ner.sh
 ```
 
 5. Prepare Source Translation Data
 
 ```bash
-bash /path/to/CROP/pipeline/step5_prepare_src_translation_data.sh
+bash ./pipeline/step5_prepare_src_translation_data.sh
 ```
 
 6. Labeled Translation
@@ -132,14 +132,14 @@ bash /path/to/CROP/pipeline/step5_prepare_src_translation_data.sh
 (use the Insert-based Translation Model)
 
 ```bash
-bash /path/to/CROP/pipeline/step6_labeled_transation.sh
+bash ./pipeline/step6_labeled_transation.sh
 ```
 
 7. Prepare and Filter the multilingual NER Data
 
 ```bash
-bash /path/to/CROP/pipeline/step7_prepare_pseudo_ner_data1.sh
-bash /path/to/CROP/pipeline/step7_prepare_pseudo_ner_data2.sh
+bash ./pipeline/step7_prepare_pseudo_ner_data1.sh
+bash ./pipeline/step7_prepare_pseudo_ner_data2.sh
 ```
 
 
