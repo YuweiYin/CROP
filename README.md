@@ -36,12 +36,8 @@ F1 scores and achieves state-of-the-art performance.
 
 ## Data
 
-We use **CCaligned**, **CoNLL-5**, and [**XTREME-40**](https://pan.baidu.com/s/14T6K4yfLgQoyo4y1i3TMfQ?pwd=107s) datasets.
+We use **CCaligned**, **CoNLL-5**, and **XTREME-40** datasets.
 For more details, please refer to the **4.1 Dataset** Section in our paper.
-
-<!-- ### Preprocessing -->
-
-<!-- ### Post-processing -->
 
 
 ## Environment
@@ -84,14 +80,15 @@ bash ./pipeline/step0_train_source_ner_model.sh
 bash ./pipeline/step0_train_translation_model.sh
 ```
 
-- [Clound Storage](https://pan.baidu.com/s/1YQjJEIVevEHXk-wpxcA8wg?pwd=jp4b)
-  - Trained model
-    - Trained Baseline Translation Model: `m2m_checkpoint_baseline.pt`
-    - Trained Insert-based Translation Model: `m2m_checkpoint_insert_avg_41_60.pt`
-    - Trained Replace-based Translation Model: `m2m_checkpoint_replace_avg_11_20.pt`
-  - Dictionary for Tokenization (used by all three models above): `dict.txt`
-    - the folder `dict-40-lang/` includes 40 dictionaries of different languages.
-  - SentencePiece Model: `spm.model`
+* Download: [Google Drive](https://drive.google.com/drive/folders/1dfrgOmMIrmphbYQkfyH5K_iOOtqC9k8Q?usp=sharing); [Baidu Drive](https://pan.baidu.com/s/1YQjJEIVevEHXk-wpxcA8wg?pwd=jp4b)
+  * Trained model
+    * Trained Baseline Translation Model: `m2m_checkpoint_baseline.pt`
+    * Trained Insert-based Translation Model: `m2m_checkpoint_insert_avg_41_60.pt`
+    * Trained Replace-based Translation Model: `m2m_checkpoint_replace_avg_11_20.pt`
+  * Dictionary for Tokenization (used by all three models above): `dict.txt`
+    * `dict-40-lang.zip` includes 40 dictionaries of different languages.
+  * SentencePiece Model: `spm.model`
+  * XTREME-40 NER Data: `xtreme_ner_data.zip`
 
 ### CROP Pipeline
 
@@ -143,16 +140,10 @@ bash ./pipeline/step7_prepare_pseudo_ner_data2.sh
 ```
 
 
-<!-- ## Inference & Evaluation -->
-
-
-<!-- ## Experiments -->
-
-
 ## Citation
 
 * arXiv: https://arxiv.org/abs/2210.07022
-<!-- * ACL Anthology: https://aclanthology.org/ -->
+* ACL Anthology: https://aclanthology.org/2022.findings-emnlp.34/
 
 ```bibtex
 @inproceedings{crop,
