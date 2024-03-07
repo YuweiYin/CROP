@@ -149,8 +149,14 @@ bash ./pipeline/step7_prepare_pseudo_ner_data2.sh
 @inproceedings{crop,
   title     = {CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation},
   author    = {Yang, Jian and Huang, Shaohan and Ma, Shuming and Yin, Yuwei and Dong, Li and Zhang, Dongdong and Guo, Hongcheng and Li, Zhoujun and Wei, Furu},
-  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2022},
+  booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+  month     = {Dec},
   year      = {2022},
+  pages     = {486--496},
+  address   = {Abu Dhabi, United Arab Emirates},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2022.findings-emnlp.34},
+  doi       = {10.18653/v1/2022.findings-emnlp.34},
 }
 ```
 
